@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen)](./LICENSE)
 
-❗️ Note: This repository is deprecated and is no longer being maintained. Delgada itself is still being worked on, but has pivoted in a new direction. This repo will remain for posterity/archival purposes. ❗️
+_❗️ Note: This repository is deprecated and is no longer being maintained. Delgada itself is still being worked on, but has pivoted in a new direction. This repo will remain for posterity/archival purposes. ❗️_
 
 ## What is Delgada?
 
