@@ -1,4 +1,4 @@
-# Delgada v1.0 Rust-based Web Compiler
+# Delgada (Rust-based Web Compiler)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen)](./LICENSE)
 
